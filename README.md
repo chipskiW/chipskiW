@@ -1,10 +1,8 @@
 ## Nicholas Waithe 👋
 
 
-Hello all,
-My name is Nicholas Waithe and I'm in my fourth year of my undergraduate studies at Binghamton University, majoring in Philosophy, Politics, & Law with a minor in Digital & Data Studies. I'm interested in the historic impact of policies and systems developed by social institutions across varying demographics. My more recent interests has been how these disparities show up in data. 
 
-Outside of my academic life, I am also committed to the providing aid to homeless men across binghamton. 
+
 <!--
 **chipskiW/chipskiW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
